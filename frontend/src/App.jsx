@@ -15,8 +15,8 @@ const router = createBrowserRouter([
   },
 ]);
 
-// export const BACKEND_URL="http://localhost:5000"
-export const BACKEND_URL = "https://registration-form-gilt.vercel.app";
+ export const BACKEND_URL="http://localhost:5000"
+
 
 const App = () => {
   return <RouterProvider router={router} />;
