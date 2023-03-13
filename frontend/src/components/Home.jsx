@@ -109,7 +109,7 @@ const Home = () => {
           </div>
           {/* -------------------- */}
           <button className="register" type="submit">
-            Register
+            Submit
           </button>
         </form>
       </div>
